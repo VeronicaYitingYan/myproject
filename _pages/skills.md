@@ -1,7 +1,9 @@
 
 ---
-title: "Skills"
+layout: archive
 permalink: /skills/
+title: "skills"
+author_profile: true
 header:
   images:"/images/book7.jpg"
 ---
