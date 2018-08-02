@@ -3,7 +3,7 @@
 title: "Skills"
 permalink: /skills/
 header:
-  images:"/images/book1.jpg"
+  images:"/images/book7.jpg"
 ---
 Tool - Python, R, SQL, VBA, Linux
 Language – Django, Postgresql, NoSql, Mongodb, Amazon Web Services
