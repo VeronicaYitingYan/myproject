@@ -7,14 +7,14 @@ header:
   image: "/images/book6.jpg"
 ---
 
-R Engagement Test (A/ B Test)
+Engagement Test (A/ B Test)
 
 Tested whether new feature has positive effect on engagement
 Analyzed actionable insights to improve engagement
 Performed Novelty Effect analysis for feature evaluation by tracking the behaviors of new and old users. 
 
 
-R Random Forest on CTR   
+Random Forest on CTR   
 
 Performed basic feature engineering
 Built Random Forest model to improve email campaign result 
