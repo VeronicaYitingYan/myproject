@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning project: Perceptron"
+title: "Machine Learning project: "
 date: 2018-08-02
 tags: [machine learning, data science, random forest]
 header:
@@ -27,7 +27,22 @@ header:
  
  Python code block:
  '''python
-      immport numpy as mp
+      immport numpy as np
       
+      def test_function(x,y):
+          z=np.sum(x,y)
+          return z
       
  '''
+
+R code block:
+
+```r
+library(tidyverse)
+def read_csv("some_file.csv")
+head(df)
+```
+
+Here is some inline code 'x+y'
+
+Here is image: 
