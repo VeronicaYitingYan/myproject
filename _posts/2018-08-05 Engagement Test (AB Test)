@@ -1,13 +1,14 @@
 
 ---
 title: "Machine Learning project: "
-date: 2018-08-02
+date: 2018-08-05
 tags: [machine learning, data science, random forest]
 header:
-  image: "/images/book2.jpg"
+  image: "/images/book4.jpg"
 excerpt:"Machine Learning, Projectname, Data Science"
  ---
- 
+
+
 R Engagement Test (A/ B Test)
 
 Tested whether new feature has positive effect on engagement
