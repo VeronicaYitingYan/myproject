@@ -4,7 +4,7 @@ date: 2018-08-02
 tags: [machine learning, data science, random forest]
 header:
   image: "/images/book2.jpg"
- excerpt:"Machine Learning, Projectname, Data Science"
+excerpt:"Machine Learning, Projectname, Data Science"
  ---
  
  # H1 Heading
