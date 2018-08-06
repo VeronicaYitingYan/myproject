@@ -1,11 +1,19 @@
 ---
 layout: archive
 permalink: /machine-learning/
-title: "Machine Learning Posts by Tags"
+title: "Machine Learning Project"
 author_profile: true
 header:
   image: "/images/book6.jpg"
 ---
+R Random Forest on CTR   
+
+Performed basic feature engineering
+Built Random Forest model to improve email campaign result 
+Extracted insights from the model via partial dependence plots
+
+
+
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
