@@ -46,3 +46,4 @@ head(df)
 Here is some inline code 'x+y'
 
 Here is image: 
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/book4.jpg" alt="">
