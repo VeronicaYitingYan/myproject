@@ -6,6 +6,8 @@ main:
     url: /machine-learning/
   - title: "Skills"
     url: /skills/
+  - title: "Django"
+    url: /django/
   
 
   # - title: "About"
