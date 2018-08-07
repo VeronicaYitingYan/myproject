@@ -3,6 +3,7 @@ layout: archive
 permalink: /machine-learning/
 title: "Machine Learning Project"
 author_profile: true
+excerpt:"Machine Learning, Projectname, Data Science"
 header:
   image: "/images/book6.jpg"
 ---
