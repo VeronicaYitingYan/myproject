@@ -7,7 +7,7 @@ header:
   image: "/images/book7.jpg"
 ---
 
-**Tool** - Python, R, SQL, VBA, Linux <br/>
+**Programming** - Python, R, SQL, VBA, Linux <br/>
 **Language** – Django, Postgresql, NoSql, Mongodb, Amazon Web Services<br/>
 **Data Science** – A/B Test, Random Forest, Logistic Regression, Decision Tree, KNN, Cluster<br/>
 **Visualization** – PowerBI<br/>
