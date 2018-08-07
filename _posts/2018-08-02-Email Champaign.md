@@ -6,7 +6,7 @@ header:
   image: "/images/book2.jpg"
 excerpt:"Machine Learning, Projectname, Data Science"
 mathJax: "true"
- ---
+---
  
  # H1 Heading
  ##H2 Heading
