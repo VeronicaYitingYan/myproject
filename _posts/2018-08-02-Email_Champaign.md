@@ -47,7 +47,7 @@ head(df)
 Here is some inline code 'x+y'
 
 Here is image: 
-<img src="{{ site.url }}{{ site.baseurl }}/images/book4.jpg" alt="linearly seperate" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/images/book4.jpg" alt="linearly seperate">
 
 Here is some math:
 $$z=x+y$$
