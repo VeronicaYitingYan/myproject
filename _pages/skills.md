@@ -11,7 +11,7 @@ header:
 **Language** - Python, R, SQL, VBA, Linux <br/>
 **Tool** – Django, Postgresql, NoSql, Mongodb, Amazon Web Services<br/>
 **Data Science** – A/B Test, Random Forest, Logistic Regression, Decision Tree, KNN, Cluster<br/>
-**Visualization** – PowerBI<br/>
+**Visualization** – PowerBI, Tableau<br/>
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
