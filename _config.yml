@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author             :
   name             : "Veronica Yan"
-  avatar           : "/images/book9.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/book9.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst/ Science"
   location         :
   email            :
