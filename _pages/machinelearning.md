@@ -29,7 +29,8 @@ data=merge(test,user,by="user_id", all.x=TRUE)
 summary(data)
 str(data)
 ```
-image: "/images/AB1.png"
+![](/images/AB1.png) 
+
 
 
 
