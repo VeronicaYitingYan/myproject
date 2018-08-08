@@ -4,7 +4,7 @@ permalink: /skills/
 title: "Skills"
 author_profile: true
 header:
-  image: "/images/book7.jpeg"
+  image: "/images/book19.jpeg"
       
 ---
 
