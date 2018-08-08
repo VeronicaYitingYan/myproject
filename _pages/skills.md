@@ -1,10 +1,11 @@
----
+---   
 layout: archive
-permalink: /skills/
-title: "Skills"
+permalink: /machine-learning/
+title: "Machine Learning Post by Tags"
 author_profile: true
 header:
-    image: "/images/book9.jpg 
+  image: "/images/book9.jpg"
+      
 ---
 
 **Language** - Python, R, SQL, VBA, Linux <br/>
