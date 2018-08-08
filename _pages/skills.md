@@ -4,7 +4,7 @@ permalink: /skills/
 title: "Skills"
 author_profile: true
 header:
-    image: "/images/book8.jpg 
+    image: "/images/book9.jpg 
 ---
 
 **Language** - Python, R, SQL, VBA, Linux <br/>
