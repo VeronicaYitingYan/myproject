@@ -1,20 +1,45 @@
 ---
 layout: archive
 permalink: /machine-learning/
-title: "Machine Learning Post by Tags"
+title: "Machine Learning Projects"
 author_profile: true
 header:
   image: "/images/book12.jpeg"
   
 ---
 
+# Engagement Test (A/ B Test)
+
+* Description of Data:
+The compnay of this project is a social network. They decide to add a feature called: Recommand Friends, i.e sugget people you may know on the user newsfeed. A model has built to suggest 5 people to each user. The test has been running for some time, we wamt to check for each user, the number of pages visited during their first session since the test started. If this number increased, the test is a success.
+
+* Research questions:
+This project aims to check A/B test result to test whether new feature has positive effect on
+engagement. And identify the test performance on different user segments.
+1. Perform A/B test
+2. Look at actionable insights to improve engagement
 
 
-Engagement Test (A/ B Test)
+* Analyses to answer research questions:
 
-Tested whether new feature has positive effect on engagement
-Analyzed actionable insights to improve engagement
-Performed Novelty Effect analysis for feature evaluation by tracking the behaviors of new and old users. 
+We first look at the data set, clean it and merge two tables.
+
+```{r}
+data=merge(test,user,by="user_id", all.x=TRUE)
+data$test=as.factor(data$tets) #"test"(0 control group or 1 test group)
+summary(data)
+str(data)
+```
+image: ![](/images/AB1.png)
+
+
+
+
+
+
+
+
+
 
 
 Random Forest on CTR   
