@@ -8,7 +8,7 @@ header:
   
 ---
 
-# Engagement Test (A/ B Test)
+# 1. Engagement Test (A/ B Test)
 
 * Description of Data:
 The compnay of this project is a social network. They decide to add a feature called: Recommand Friends, i.e sugget people you may know on the user newsfeed. A model has built to suggest 5 people to each user. The test has been running for some time, we wamt to check for each user, the number of pages visited during their first session since the test started. If this number increased, the test is a success.
@@ -22,15 +22,14 @@ engagement. And identify the test performance on different user segments.
 
 * Analyses to answer research questions:
 
-We first look at the data set, clean it and merge two tables.
+  We first look at the data set, clean it and merge two tables.
 
 ```{r}
 data=merge(test,user,by="user_id", all.x=TRUE)
-data$test=as.factor(data$tets) #"test"(0 control group or 1 test group)
 summary(data)
 str(data)
 ```
-image: ![](/images/AB1.png)
+image: "/images/AB1.png"
 
 
 
