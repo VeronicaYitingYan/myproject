@@ -1,7 +1,7 @@
 ---   
 layout: archive
-permalink: /machine-learning/
-title: "Machine Learning Post by Tags"
+permalink: /skills/
+title: "Skills"
 author_profile: true
 header:
   image: "/images/book8.jpg"
