@@ -4,7 +4,7 @@ permalink: /django/
 title: "Django"
 author_profile: true
 header:
-  image: "/images/book3.jpg"
+  image: "/images/book13.jpg"
 ---
 
 [1. Polls](https://www.google.com)
