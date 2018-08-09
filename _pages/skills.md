@@ -7,17 +7,19 @@ header:
     image: "/images/book19.jpeg"
       
 ---
-<pre>
+
 **Language** 
-<pre>
-    Python, R, SQL, VBA, Linux </pre>   
+<pre>    Python, R, SQL, VBA, Linux </pre>   
+</pre>
+
 **Tool**  
-<pre>
-    Django, Postgresql, NoSql, Mongodb, Amazon Web Services</pre>   
+<pre>    Django, Postgresql, NoSql, Mongodb, Amazon Web Services
+</pre>   
     
 **Data Science**  
-    A/B Test, Random Forest, Logistic Regression, Decision Tree, KNN, Cluster
-   
+<pre>    A/B Test, Random Forest, Logistic Regression, Decision Tree, KNN, Cluster
+<pre>
+
 **Visualization**  
-    PowerBI, Tableau
+<pre>    PowerBI, Tableau
 </pre>
