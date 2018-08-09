@@ -4,7 +4,7 @@ date: 2018-08-08
 tags: [machine learning, data science, random forest]
 header:
     image: "/images/book12.jpeg"
-excerpt: "Machine Learning, test, Data Science" 
+excerpt: "A/B Test, Engagement, Data Science" 
 mathjax: "true"
 
 ---
