@@ -9,14 +9,14 @@ header:
 ---
 
 **Language**  
-    Python, R, SQL, VBA, Linux 
+    -Python, R, SQL, VBA, Linux 
    
 **Tool**  
-    Django, Postgresql, NoSql, Mongodb, Amazon Web Services
+   - Django, Postgresql, NoSql, Mongodb, Amazon Web Services
    
 **Data Science**  
-    A/B Test, Random Forest, Logistic Regression, Decision Tree, KNN, Cluster
+   - A/B Test, Random Forest, Logistic Regression, Decision Tree, KNN, Cluster
    
 **Visualization**  
-    PowerBI, Tableau
+   - PowerBI, Tableau
 
