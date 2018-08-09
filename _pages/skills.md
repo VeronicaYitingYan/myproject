@@ -8,12 +8,13 @@ header:
       
 ---
 <pre>
-**Language**  
-    Python, R, SQL, VBA, Linux 
-   
+**Language** 
+<pre>
+    Python, R, SQL, VBA, Linux </pre>   
 **Tool**  
-    Django, Postgresql, NoSql, Mongodb, Amazon Web Services
-   
+<pre>
+    Django, Postgresql, NoSql, Mongodb, Amazon Web Services</pre>   
+    
 **Data Science**  
     A/B Test, Random Forest, Logistic Regression, Decision Tree, KNN, Cluster
    
