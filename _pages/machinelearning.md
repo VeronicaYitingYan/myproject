@@ -8,40 +8,6 @@ header:
   
 ---
 
-# 1. Engagement Test (A/ B Test)
-
-* Description of Data:
-The compnay of this project is a social network. They decide to add a feature called: Recommand Friends, i.e sugget people you may know on the user newsfeed. A model has built to suggest 5 people to each user. The test has been running for some time, we wamt to check for each user, the number of pages visited during their first session since the test started. If this number increased, the test is a success.
-
-* Research questions:
-This project aims to check A/B test result to test whether new feature has positive effect on
-engagement. And identify the test performance on different user segments.
-1. Perform A/B test
-2. Look at actionable insights to improve engagement
-
-
-* Analyses to answer research questions:
-
-  We first look at the data set, clean it and merge two tables.
-
-```{r}
-data=merge(test,user,by="user_id", all.x=TRUE)
-summary(data)
-str(data)
-```
----
-![](/images/AB1.png) 
-
----
-
-
-
-
-
-
-
-
-
 
 Random Forest on CTR   
 
