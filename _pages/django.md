@@ -8,13 +8,13 @@ header:
 ---  
 
 
-[1. Waitfree](https://www.google.com) :  manage the waiting list
-<pre>
-    This Django web app is designed for a resturant. 
+[1. Waitfree](https://www.google.com) : 
+
+⋅⋅⋅This Django web app is designed for a resturant. It helps to manage the waiting list.
     Custermers will assigned a number by filling the signup form.  
     The data is saved into backend database. 
     The website is running on EC2.
-</pre>
+
 
     
 
