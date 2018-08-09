@@ -6,6 +6,7 @@ tags: [machine learning, data science, random forest]
 header:
   image: "/images/book12.jpeg"
 excerpt: "Machine Learning, Random Forest, Data Science" 
+mathjax: "true"
 ---
 
 # 1. Engagement Test (A/ B Test)
