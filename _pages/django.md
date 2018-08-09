@@ -19,14 +19,14 @@ header:
 
    A web questionnaire survey consisting a sereies of questions researchers interest to know form respondents.  
    Researchers can check the Statistic summary anytime someone provide respond.  
-   Processed by Django and running on AWS.
-  
+   Processed by Django and running on AWS.  
+    
 
 [3. Me](https://www.google.com)  
 
-   This link a Django_Resume version.
+   This link a Django_Resume version.  
    It contain more information about Veronica.  
-   It Includes Veronica's work experience, education and honors. 
-   Processed by Django and running on AWS.
+   It Includes Veronica's work experience, education and honors.  
+   Processed by Django and running on AWS.  
    
 
