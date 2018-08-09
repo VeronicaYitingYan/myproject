@@ -17,8 +17,8 @@ header:
 </pre>   
     
 **Data Science**  
-<pre>    A/B Test, Random Forest, Logistic Regression, Decision Tree, 
-         KNN, Cluster
+<pre>    A/B Test, Random Forest, Decision Tree, 
+         Logistic Regression, KNN, Cluster
 </pre>
 
 **Visualization**  
