@@ -5,8 +5,8 @@ title: "Machine Learning Projects Posts by Tags"
 author_profile: true
 header:
   image: "/images/book12.jpeg"
- excerpt:"Machine Learning, Projectname, Data Science"
-  
+excerpt:"Machine Learning, Projectname, Data Science"
+
 ---
 
 
