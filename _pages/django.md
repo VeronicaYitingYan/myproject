@@ -11,5 +11,5 @@ header:
 
 [2. Waitfree](https://www.google.com)
 
-[3. Resume-Django](https://www.google.com)
+[3. Resume-Django Version](https://www.google.com)
 
