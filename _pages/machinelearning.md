@@ -9,15 +9,6 @@ excerpt:"Machine Learning, Projectname, Data Science"
 
 ---
 
-
-Random Forest on CTR   
-
-Performed basic feature engineering
-Built Random Forest model to improve email campaign result 
-Extracted insights from the model via partial dependence plots
-
-
-
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
