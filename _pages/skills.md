@@ -18,7 +18,7 @@ header:
     
 **Data Science**  
 <pre>    A/B Test, Random Forest, Logistic Regression, Decision Tree, KNN, Cluster
-<pre>
+</pre>
 
 **Visualization**  
 <pre>    PowerBI, Tableau
