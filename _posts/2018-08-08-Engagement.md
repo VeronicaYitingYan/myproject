@@ -8,13 +8,14 @@ excerpt: "A/B Test, Engagement, Data Science"
 mathjax: "true"
 
 ---
-*
+
 
 * Background:  
 
    It is a new feature test on a Social Network Company. They decide to add a feature called: Recommend Friends, i.e suggest people you may know on the user newsfeed. A model has built to suggest 5 people to each user. The test has been running for some time, we aims to test wether the new feature will increase the page visiting volume.
 
-* Description of Data:
+* Description of Data:   
+
    This data file has two tables, user_table and test_table. Company runs A/B test on a random subset of users. We want to check for each user, the number of pages visited during their first session since the test started.
 
 * Research questions:  
