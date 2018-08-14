@@ -10,21 +10,21 @@ mathjax: "true"
 ---
 
 
-## Background:  
+### Background:  
 
    It is a new feature test on a Social Network Company. They decide to add a feature called: Recommend Friends, i.e suggest people you may know on the user newsfeed. A model has built to suggest 5 people to each user. The test has been running for some time, we aims to test wether the new feature will increase the page visiting volume.
 
-## Description of Data:   
+### Description of Data  
 
    This data file has two tables, user_table and test_table. Company runs A/B test on a random subset of users. We want to check for each user, the number of pages visited during their first session since the test started.
 
-## Research questions:  
+### Research questions
    This project aims to check A/B test result to test whether new feature has positive effect on engagement. And identify the test performance on different user segments.   
-      1. Perform A/B test
+      1. Perform A/B test   
       2. Look at actionable insights to improve engagement
 
 
-## Analyses to answer research questions:
+### Analysis
 
   We first look at the data set, clean it and then merge two tables.
 
@@ -70,12 +70,12 @@ We delete “Opera” from data and run the T-test again. Test group performs be
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/ttest2.png">
 
-Novelty Effect:  
+### Novelty Effect
    First time users are obviously not affected by novelty effect. Look at test result btw new users in control group vs new users in test group.   
    If the test is winning overall, but not winning for the new users. It is a big sign of Novelty effect.   
 
 
-* Conclusion & Suggestions    
+### Conclusion & Suggestions    
 
    1) New feature improved engagement as expected in general. It seems we can keep the new feature for all users.    
 
