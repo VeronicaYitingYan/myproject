@@ -68,7 +68,7 @@ The plot below clearly indicates there is no “Opera” data in test group. The
 
 We delete “Opera” from data and run the T-test again. Test group performs better than control group this time.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/ttets2.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ttest2.png">
 
 Novelty Effect:  
    First time users are obviously not affected by novelty effect. Look at test result btw new users in control group vs new users in test group.   
