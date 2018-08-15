@@ -25,8 +25,8 @@ header:
 
 [3. Me](https://www.google.com)  
 
-   This link a Django_Resume version.  
-   It contain more information about Veronica, includes Veronica's work experience, education and honors.  
+   Resume in Django version.  
+   It contain more information about Veronica. What's her work experience, education and honors.  
    Processed by Django and running on AWS.  
    
 
