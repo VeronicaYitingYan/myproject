@@ -15,12 +15,12 @@ header:
 
 **Tool**  
 <pre>   Django, Postgresql, NoSql,  Amazon Web Services,   
-        Mongodb
+   Mongodb
 </pre>   
     
 **Data Science**  
 <pre>    A/B Test, Random Forest, Decision Tree,     
-       Logistic Regression, KNN, Cluster </pre>
+  Logistic Regression, KNN, Cluster </pre>
 
 
 **Visualization**  
