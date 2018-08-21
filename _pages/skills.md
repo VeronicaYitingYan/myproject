@@ -14,8 +14,8 @@ header:
 
 
 **Tool**  
-<pre>   Django, Postgresql, NoSql,  Amazon Web Services,   
-   Mongodb
+<pre>   Django, Postgresql, NoSql,    
+   Amazon Web Services, Mongodb
 </pre>   
     
 **Data Science**  
