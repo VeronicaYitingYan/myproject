@@ -16,11 +16,12 @@ header:
    The website is running on EC2.  
    http://ec2-18-220-5-53.us-east-2.compute.amazonaws.com/
 
-[2. Polls](https://www.google.com)  
+[2. Polls](http://ec2-18-220-5-53.us-east-2.compute.amazonaws.com/polls)  
 
    A web questionnaire survey consisting a sereies of questions researchers interest to know form respondents.  
    Researchers can check the Statistic summary anytime someone provide respond.  
    Processed by Django and running on AWS.  
+   http://ec2-18-220-5-53.us-east-2.compute.amazonaws.com/polls/
     
 
 [3. Me](https://www.google.com)  
