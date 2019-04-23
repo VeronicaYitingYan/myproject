@@ -10,7 +10,7 @@ header:
 
 
 **Language** 
-<pre>   Python, R, SQL, VBA, Linux </pre>   
+<pre>   Python, SQL, R, VBA, Linux </pre>   
 
 
 **Tool**  
