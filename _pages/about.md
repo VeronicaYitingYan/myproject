@@ -9,12 +9,12 @@ header:
 
 
 
-  I'm a data analyst and supporteble engineer who excels at Exploratory Analysis, Statistics, Machine Learning and Data Visualizations.  
+  I'm a supporteble engineer who excels at Software Engineering, Data mining, Exploratory Analysis, Statistics, Machine Learning and Data Visualizations.  
 
 
- Obtained a Master degree in Apllied Math (UIUC) and Bachelor degreen in Mathematics(U of Macau Hornor). 3+  years working experience as Data Analyst and Engineer. Building decision support models in Electronic Engineering and Insurance area. 
+ Obtained a Master degree in Apllied Math (UIUC) and Bachelor degreen in Mathematics(U of Macau Hornor). 3+  years working experience as Suportability Engineer and 1 year experience as Data Analyst. Building decision support models in Electronic Engineering and Insurance area. 
 
 
-  A self-motivated and competent individual who are passionate about Data, Math and Engineering. 
+  A self-motivated and competent individual who are passionate about Engineering, Data and Math. 
 
 
